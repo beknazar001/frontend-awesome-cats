@@ -67,4 +67,4 @@ docker push <docker-username>/<repo-name>:
 After completing all of those steps above you would have a built docker image that you can use further as the usual docker image<br>
 <br>
 
-### "The only way to do great work is to love what you do." - Steve Jobs
+<h2 style=color:orange> "The only way to do great work is to love what you do."</h2><h3> - Steve Jobs </h3>
